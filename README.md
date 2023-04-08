@@ -3,3 +3,5 @@
 ### Ying Ren | 041032669
 
 Welcome to CST2208 Project.
+
+The answer can been in jupyter notebook.
